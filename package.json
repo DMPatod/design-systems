@@ -1,5 +1,5 @@
 {
-  "name": "learnstorybook-design-system",
+  "name": "design-system",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -48,6 +48,7 @@
     "@storybook/node-logger": "^6.1.15",
     "@storybook/preset-create-react-app": "^3.1.5",
     "@storybook/react": "^6.1.15",
+    "chromatic": "^5.6.1",
     "prettier": "^2.2.1"
   }
 }
